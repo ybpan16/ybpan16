@@ -1,8 +1,8 @@
 - 👋 Hi, I’m YUNBEI PAN @ybpan16
+- 😄 Pronouns: She/Her
 - 🌱 I am currently a second-year Biomath Ph.D. student under the Dept of Computational Medicine at UCLA.
 - 👀 I am working on mathematical and statistical modeling on immunology and hematopoiesis, special topics associated with COVID, HIV, and T/B cell dynamics, etc.
 - 📫 My email is yunbei97@ucla.edu.
-- 😄 Pronouns: She/Her
 - ⚡ My researchgate is https://www.researchgate.net/profile/Yunbei_Pan
 
 <!---
